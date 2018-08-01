@@ -1,0 +1,36 @@
+header{
+    width: 100%;
+    margin-bottom:25px;
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.foto1{
+    background-image: url("img/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.foto2{
+    background-image: url("img/2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.foto3{
+    background-image: url("img/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+
+.contenedormapa{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+button{
+    background-color: rgb(85, 155, 85);
+    
+}
+#boton{
+    background-color: rgb(73, 165, 19);
+}
